@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#main {
+	width: 350px;
+    height: 100px;
+    padding: 10px;
+    margin: 100px auto;
+    border: 1px solid #aaaaaa;
+}
+
+.top {
+	width: 40px;
+	height: 40px;
+	border: 1px solid #000;
+	float: left;
+	margin: 5px;
+}
+
+#main_top {
+	overflow: hidden;
+	width: 160px;
+	margin:20px auto;
+}
